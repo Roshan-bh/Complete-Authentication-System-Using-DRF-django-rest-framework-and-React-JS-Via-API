@@ -1,0 +1,96 @@
+body{
+    background-color: rgb(156, 172, 187);
+}
+/* CSS for navbar starts */
+.navbar-brand:focus,
+.navbar-brand:hover{
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.text-color{
+    color: white;
+    border-radius: 17px;
+    letter-spacing: 1px;
+   
+}
+
+.nav-link:focus,
+.nav-link:hover{
+   
+    background-color: rgb(156, 172, 187);
+    border-radius: 17px;
+    color: rgb(234, 228, 228);
+    font-weight: bold;
+    letter-spacing: 2px; 
+}
+
+.image-property{
+    height: 50vh;
+    width: auto;
+}
+.header-space{
+    letter-spacing: 2px;
+}
+/* CSS for navbar starts */
+
+/* Form input elements css starts*/
+.form-control{
+    background-color: transparent;
+    border-color: black;
+}
+.form-control:hover{
+    background-color: rgb(242, 240, 240);
+    border-color: black;
+}
+.form-check-input{
+    background-color: rgb(148, 147, 147);
+    border-color: black;
+}
+
+.form-check-input:hover{
+    background-color: rgb(148, 147, 147);
+    border-color: black;
+}
+/* Form input elements css ends*/
+
+
+ /* Css for sidebar starts*/
+.sidebar{
+    background-color: rgb(96, 109, 109);
+    color: white;
+    height: 100vh;
+}
+.link-text{
+   
+    color: whitesmoke;
+    font-size: 17px;
+    padding:13px;
+    margin-right: 10px;
+}
+a{
+    text-decoration: none;
+}
+.bar{
+    font-size: large;
+  
+}
+
+.link-text:hover{
+   background-color: rgb(50, 51, 53);
+   transition: 0.2s cubic-bezier(0.6,-0.28,0.735,0.045);
+   border-radius: 50px;
+
+}
+
+ /* Css for sidebar ends*/
+
+ 
+ /* Css for contact page starts*/
+.img-logo{
+    border: 5px solid dark;
+}
+.text{
+    letter-spacing: 8px;
+    font-size:xx-large;
+}
+/* Css for contact page ends*/

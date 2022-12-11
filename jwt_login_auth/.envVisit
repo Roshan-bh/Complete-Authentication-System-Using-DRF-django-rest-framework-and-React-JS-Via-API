@@ -1,0 +1,7 @@
+# First there is some instruction here you should follow 
+# step-1 : rename this file from .envVisit to .env 
+# step-2 : put the correct email address and password because I have put dummy adrress and password
+
+EMAIL_USER='dummy@dummygmail.com'
+EMAIL_PASS='dummypassword'
+EMAIL_FROM='dummy@dummygmail.com'
